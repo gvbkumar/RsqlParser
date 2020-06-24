@@ -26,7 +26,7 @@ Not equal to : !=
 
 Less than : =lt= or <
 
-Less than or equal to : =le= or ⇐
+Less than or equal to : =le= or <=
 
 Greater than operator : =gt= or >
 
